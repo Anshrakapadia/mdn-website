@@ -1,0 +1,8 @@
+
+.first-head{
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    display: inline-block;
+}
